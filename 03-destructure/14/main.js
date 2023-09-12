@@ -1,0 +1,1 @@
+// undefined และ undefined ตามลำดับ
